@@ -2,6 +2,10 @@
 
 > In this project, a new rails app was generated as an api-only app. An API endpoint was created for a randomly generated greeting  and this endpoint was used in the Hello-React-Frontend app.
 
+## Link To Front-end App
+
+This is the [link](https://github.com/DammyShittu/Hello-React-Front-End) to the Front-end app.
+
 ## Getting Started
 
 - Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Postgresql](https://www.postgresql.org/download/) installed on your system.
